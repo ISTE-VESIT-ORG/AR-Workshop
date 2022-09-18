@@ -123,6 +123,8 @@ Contributions are what make the open source community such an amazing place to b
 
 -   [Japneet Rajput](https://github.com/JapneetRajput)
 -   [Hrishikesh Patil](https://github.com/hrishi0102)
+-   [Atharva Bhoite](https://github.com/atharvabhoite7)
+-   [Surya Ganiga](https://github.com/satts27)
 
 <!-- CONTACT -->
 
