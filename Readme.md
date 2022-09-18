@@ -74,7 +74,7 @@ Vuforia is an augmented reality software development kit (SDK) for mobile device
 
 The Vuforia SDK supports a variety of 2D and 3D target types including ‘markerless’ Image Targets, 3D Model Target, and a form of addressable Fiducial Marker, known as a VuMark. Additional features of the SDK include 6 degrees of freedom device localization in space, localized Occlusion Detection using ‘Virtual Buttons’, runtime image target selection, and the ability to create and reconfigure target sets programmatically at runtime.
 
-### Unity and Vuforia integration :
+### Unity and Vuforia integration
 
 - Create an account on Vuforia
 - Login 
@@ -109,7 +109,7 @@ The Vuforia SDK supports a variety of 2D and 3D target types including ‘marker
 - Then select the database you just imported under the Database 
 - Then select the Image target we uploaded to Vuforia 
 
-## Basic AR App :
+## Basic AR App
 
 - Start with Unity and Vuforia integration
 - Then for trial you can create a 3d object to test AR I ll be trying with the cube but you can choose whichever you like
