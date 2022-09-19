@@ -113,9 +113,9 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 
-<!--## License-->
+## License
 
-<!--Distributed under the MIT License. See [`LICENSE`](https://github.com/ISTE-VESIT-ORG/AR-Workshop/blob/main/LICENSE) for more information.-->
+Distributed under the MIT License. See [`LICENSE`](https://github.com/ISTE-VESIT-ORG/AR-Workshop/blob/main/LICENSE) for more information
 
 <!-- CREDITS -->
 
