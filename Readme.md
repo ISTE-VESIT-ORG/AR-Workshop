@@ -1,5 +1,5 @@
 
-# AR Day 2
+# Day 2
 
 This is Day 2 of building an AR application using Unity3D and Vuforia Engine. 
 All the material and codes of this WORKSHOP are in there respective branches.
