@@ -46,6 +46,8 @@ In this workshop we learn about :
 - ️Understanding AR and its applications 
 - ️Exploring Untiy and Vuforia
 - ️Creating our own AR project
+ 
+### View the presentation [here](https://prezi.com/p/_r-ft5grmcr9/iste-ar/)
 
 <!-- GETTING STARTED -->
 
